@@ -1,4 +1,7 @@
 {
   "Title": "Demo de traducción",
-  "WelcomeMessage": "Bienvenido a la aplicación de demostración internacional"
+  "WelcomeMessage": "Querido {{name}}, bienvenido a la aplicación de demostración internacional",
+  "Portuguese": "Portugués",
+  "English": "Inglés",
+  "Spanish": "Español"
 }
